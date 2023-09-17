@@ -2,6 +2,7 @@
 ### Fecha:  11-09-2023
 ### Link notebook: https://colab.research.google.com/drive/1Pi8c02YPXBmrL5JBlRjQ2iLkWFhbr-iX?usp=sharing
 **Nota:** Si usted es un estudiante que está tomando como referencia mi trabajo porfavor déjame una estrellita por mi esfuerzo :) 
+
 **1.** Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
 * En este punto mire el código ASCII y me di cuenta de que las vocales minúsculas correspondían a los números: 97, 101, 105, 111 y 117. Por esta razón creé un condicional que busca mirar si el número ingresado era igual que alguno de esos números correspondientes. Si equivale a alguno, el programa mostrará que si corresponde a una vocal minúscula y nos mostrara específicamente a cuál. En el caso de ser negativa la relación, el programa mostrará que no pertenece.
 * Mirar archivo Punto_1.ipynb
